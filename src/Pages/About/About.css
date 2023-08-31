@@ -1,0 +1,43 @@
+/* About.css */
+.about-container {
+  background-color: #f4f4f4; /* Light gray background */
+  padding: 40px; /* Add padding around the content */
+
+  /* Center the content vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-image-container {
+  background-color: #ffffff; /* White background for image container */
+  padding: 20px; /* Add padding around the image */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a light shadow */
+}
+
+.content-about-container {
+  background-color: #ffffff; /* White background for content container */
+  padding: 20px; /* Add padding around the content */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a light shadow */
+}
+
+/* Additional styles for the image and text */
+.about-image {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+  border-radius: 10px; /* Rounded corners for the image */
+}
+
+.about {
+  color: #007bff; /* Blue color for the "About me" heading */
+}
+
+.p{
+  font-size: 20px;
+  color: black;
+  text-transform: lowercase;
+
+  font-family: fantasy;
+
+}

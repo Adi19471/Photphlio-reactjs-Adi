@@ -1,0 +1,36 @@
+/* Contact.css */
+#contact {
+  background-color: #f4f4f4;
+  color: #333; /* Set text color */
+  margin-top: 30px; /* Add space at the top */
+}
+
+.card {
+  border: none; /* Remove default card border */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a light shadow */
+}
+
+.card-body {
+  padding: 20px; /* Add padding within the card body */
+}
+
+.form-control {
+  border-radius: 5px; /* Rounded corners for form inputs */
+}
+
+.btn-primary {
+  background-color: #007bff; /* Set button background color */
+  border: none; /* Remove button border */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Darken button color on hover */
+}
+
+/* Adjust image size and spacing */
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px; /* Rounded corners for the image */
+  margin-top: 15px; /* Add space at the top of the image */
+}

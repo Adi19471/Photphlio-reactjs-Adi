@@ -1,0 +1,26 @@
+.recent-education {
+  color: dark;
+  background-color: honeydew;
+  width: 50%;
+  height: 50%;
+}
+
+.recent-reverse{
+  margin-left: 500px;
+  background-color: oldlace;
+  width: 50%;
+  height: 50%;
+}
+
+#education{
+  background-color: blanchedalmond;
+}
+
+.bg-color{
+  background-color: blanchedalmond;
+}
+
+.bg-color {
+  background-color: #1e1e1e; /* Choose your desired background color */
+  padding: 20px; /* Add padding for spacing */
+}

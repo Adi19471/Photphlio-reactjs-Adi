@@ -1,0 +1,25 @@
+.offcanvas {
+    background-color:dark;
+    font-family: cursive;
+    font-size: 10px;
+    font-weight: 500;
+    text-shadow: 1px 0px white;
+}
+
+.offcanvas:hover {
+    color: rgb(225, 217, 208);
+    background-color: teal;
+}
+
+.img-logo {
+    border-radius: 50%;
+    margin: auto 10px;
+    width: 150px;
+    border: 5px solid black;
+}
+
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+  }

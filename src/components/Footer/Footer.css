@@ -1,0 +1,34 @@
+/* Apply styles to the entire footer */
+footer {
+  background-color: #caced1;
+  padding-top: 1rem;
+}
+
+/* Style the images section */
+#images-section {
+  padding: 1rem 0;
+}
+
+/* Style the individual image cards */
+.bg-image {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.bg-image img {
+  transition: transform 0.3s;
+}
+
+.bg-image:hover img {
+  transform: scale(1.05);
+}
+
+/* Style the copyright section */
+.footer-copyright {
+  background-color: rgba(0, 0, 0, 0.2);
+  color: #fff;
+  padding: 1rem 0;
+  font-size: 14px;
+}
